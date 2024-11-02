@@ -1,0 +1,6 @@
+pyspark==3.5.2
+setuptools
+pandas
+pyarrow
+pytest
+numpy==1.26.4
